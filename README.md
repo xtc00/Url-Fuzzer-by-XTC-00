@@ -1,5 +1,8 @@
-XTC-00 Url Fuzzer is a Simple Program written in C# made to find hidden directories/files on a website.
+🌌 XTC-00 Url Fuzzer is a Simple Program written in C# made to find hidden directories/files on a website.🌌
+
+
 ![Screenshot 2024-10-20 223711](https://github.com/user-attachments/assets/59107699-ef2d-4d98-a1db-b57952961ae6)
+
 A default wordlist containing more than 30k interesting paths has been included.
 Checking speed is estimated 3-4k paths per minute.
 
